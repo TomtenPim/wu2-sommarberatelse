@@ -1,0 +1,33 @@
+.container{
+    max-width: 48rem;
+    width: 100%;
+
+    padding-right: 1rem;
+    padding-left: 1rem;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.record_header{
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-evenly;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.citat{
+    color: fuchsia;
+}
+
+body{
+    background-color: lightgray;
+}
+
+
